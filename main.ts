@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Pablo
- * Created on: Sep 2024
+ * Created by: Pablo Carreras
+ * Created on: Oct 2024
  * This program messures the disctance of an object 
 */
 
